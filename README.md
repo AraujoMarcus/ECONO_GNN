@@ -74,7 +74,7 @@ If you use this work, please cite:
 
 ## Authors
 
-- **[Marcus Araujo](https://linkedin.com/in/YOUR-PROFILE)** — University of São Paulo (USP-ICMC) — marcus.santos.araujo@usp.br
+- **[Marcus Araujo](https://www.linkedin.com/in/marcus-mvsa/)** — University of São Paulo (USP-ICMC) — marcus.santos.araujo@usp.br
 - **Francisco Rodrigues** — University of São Paulo (USP)
 - **Elaine Parros** — University of São Paulo (USP)
 
