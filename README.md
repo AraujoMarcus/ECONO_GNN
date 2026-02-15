@@ -1,7 +1,8 @@
 # EconoGNN
 
 **A Graph Neural Network Framework for Temporal Economic Resilience Insights**
-Early Warning Systems for the Global Economy: Leveraging Temporal Graph Neural Networks to Safeguard Regional Resilience
+
+-Early Warning Systems for the Global Economy: Leveraging Temporal Graph Neural Networks to Safeguard Regional Resilience
 
 [![Published in PLOS ONE](https://img.shields.io/badge/Published-PLOS%20ONE-blue)](https://doi.org/10.1371/journal.pone.0343683)
 
